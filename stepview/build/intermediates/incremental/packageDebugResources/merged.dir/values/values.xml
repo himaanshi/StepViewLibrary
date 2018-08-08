@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <declare-styleable name="stepView"><attr format="integer" name="noOfSteps"/><attr format="integer" name="stepTextSize"/><attr format="color" name="separatorColor"/><attr format="integer" name="separatorWidth"/><attr format="integer" name="separatorHeight"/><attr format="color" name="selectedTextColor"/><attr format="color" name="unSelectedTextColor"/><attr format="integer" name="selectedBackground"/><attr format="integer" name="unSelectedBackground"/></declare-styleable>
+    <string name="app_name">StepView</string>
+</resources>

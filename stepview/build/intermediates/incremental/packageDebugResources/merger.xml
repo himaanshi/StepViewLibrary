@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="/Users/paxcel/Desktop/Android/BusTarckingSystem2/stepview/src/main/res"/><source path="/Users/paxcel/Desktop/Android/BusTarckingSystem2/stepview/build/generated/res/rs/debug"/><source path="/Users/paxcel/Desktop/Android/BusTarckingSystem2/stepview/build/generated/res/resValues/debug"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/Users/paxcel/Desktop/Android/BusTarckingSystem2/stepview/src/main/res"><file path="/Users/paxcel/Desktop/Android/BusTarckingSystem2/stepview/src/main/res/values/colors.xml" qualifiers=""><color name="colorPrimary">#3F51B5</color><color name="colorPrimaryDark">#303F9F</color></file><file path="/Users/paxcel/Desktop/Android/BusTarckingSystem2/stepview/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">StepView</string></file><file path="/Users/paxcel/Desktop/Android/BusTarckingSystem2/stepview/src/main/res/values/attrs.xml" qualifiers=""><declare-styleable name="stepView">
+
+        <attr format="integer" name="noOfSteps"/>
+        <attr format="integer" name="stepTextSize"/>
+        <attr format="color" name="separatorColor"/>
+        <attr format="integer" name="separatorWidth"/>
+        <attr format="integer" name="separatorHeight"/>
+        <attr format="color" name="selectedTextColor"/>
+        <attr format="color" name="unSelectedTextColor"/>
+        <attr format="integer" name="selectedBackground"/>
+        <attr format="integer" name="unSelectedBackground"/>
+
+    </declare-styleable></file></source><source path="/Users/paxcel/Desktop/Android/BusTarckingSystem2/stepview/build/generated/res/rs/debug"/><source path="/Users/paxcel/Desktop/Android/BusTarckingSystem2/stepview/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="/Users/paxcel/Desktop/Android/BusTarckingSystem2/stepview/src/debug/res"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/Users/paxcel/Desktop/Android/BusTarckingSystem2/stepview/src/debug/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="stepView"><attr format="integer" name="noOfSteps"/><attr format="integer" name="stepTextSize"/><attr format="color" name="separatorColor"/><attr format="integer" name="separatorWidth"/><attr format="integer" name="separatorHeight"/><attr format="color" name="selectedTextColor"/><attr format="color" name="unSelectedTextColor"/><attr format="integer" name="selectedBackground"/><attr format="integer" name="unSelectedBackground"/></declare-styleable></configuration></mergedItems></merger>
